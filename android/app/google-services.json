@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201313864775",
+    "project_id": "altinay-staj-ocr-3940f",
+    "storage_bucket": "altinay-staj-ocr-3940f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201313864775:android:92720c9b2a01b05fee3562",
+        "android_client_info": {
+          "package_name": "com.example.altinay_staj_ocr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgVPZE20VYA1JnlYi4fTDp_rUI89eEayI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
